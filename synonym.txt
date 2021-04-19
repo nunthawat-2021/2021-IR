@@ -1,0 +1,3 @@
+one => uni
+three => tri
+cosmos => global
